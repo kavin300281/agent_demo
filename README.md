@@ -1,5 +1,8 @@
 
 
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/kavin300281/agent_demo/blob/main/Image%20Mar%2016%2C%202026%2C%2002_06_53%20PM.png" />
+</div>
 ## Run Locally
 
 **Prerequisites:**  Node.js
